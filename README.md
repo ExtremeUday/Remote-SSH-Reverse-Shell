@@ -54,3 +54,13 @@ python3 ssh_reverse_shell.py -ip <TARGET_IP> -user <USERNAME> -passwd <PASSWORD>
 ## 🛡️ Legal Notice
 
 - This project is for educational purposes only. Do not use it on any system without explicit permission. The author is not responsible for any misuse or damage caused by this script.
+
+---
+
+## 📂 File Structure
+```
+.
+├── ssh_reverse_shell.py   # Main script
+└── README.md              # Project info
+```
+
