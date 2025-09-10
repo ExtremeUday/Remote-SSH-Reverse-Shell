@@ -60,7 +60,7 @@ python3 ssh_reverse_shell.py -ip <TARGET_IP> -user <USERNAME> -passwd <PASSWORD>
 ## 📂 File Structure
 ```
 .
-├── ssh_reverse_shell.py   # Main script
-└── README.md              # Project info
+├── Remote-SSH-Reverse-Shell.py   # Main script
+└── README.md                     # Project info
 ```
 
